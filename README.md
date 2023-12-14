@@ -7,7 +7,7 @@ Manufac Assignment
 
 ## Screenshots
 
-![App Screenshot](src/screenshots/screenshot.png)
+![App Screenshot](./src/screenshots/Screenshot.png)
 
 N.A denotes that every value in dataset is unique. Hence any value can become mode.
 
