@@ -1,0 +1,17 @@
+.row{
+    display: flex;
+}
+.rowData{
+    width: 200px;
+    padding: 15pX;
+    font-size: 18px;
+}
+.th{
+ margin:20px ;   
+}
+.td{
+    margin:20px ; 
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
